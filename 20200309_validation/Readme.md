@@ -1,4 +1,4 @@
-# Validation images from first successfully trained model of YOLOv3.  
+# Validation images from first successfully trained model of YOLOv3
 
 These images are a 10% subset of images used to train the model.  The model was trained with 30+ images that were 
 copied and rotated in 15-degree increments around the full 36 degrees, resulting in over 760 images.  The images were 
